@@ -4,36 +4,14 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+  - https://github.com/Shamazon/Review-Server
+  - https://github.com/Shamazon/Related-Items-Proxy
+  - https://github.com/Shamazon/Photo-Gallery-Proxy
+  - https://github.com/Shamazon/Description-Proxy
 
 ## Usage
 
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
-
+> run "npm install"
+> run "npm run build"
+> run "npm start"
+> navigate to localhost:3005

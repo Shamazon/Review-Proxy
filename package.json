@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage",
-    "build": "webpack -d --watch",
-    "build:dev": "webpack -d",
+    "build": "webpack -d",
+    "build:dev": "webpack -d  --watch",
     "lint": "eslint .",
     "fix": "eslint . --fix",
     "start:dev": "nodemon server/index.js",
