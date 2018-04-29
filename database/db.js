@@ -1,6 +1,7 @@
-const { Pool } = require('pg');
+ const { Pool } = require('pg');
 
 const config = {
+  host: 'db',
   user: 'shamazon', // env var: PGUSER
   database: 'shamazondb', // env var: PGDATABASE
   password: null, // env var: PGPASSWORD
